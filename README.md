@@ -1,1 +1,1 @@
-Weather app based on geo location.
+Weather app based on geo-location.
